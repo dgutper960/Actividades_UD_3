@@ -12,10 +12,5 @@ public class Principal {
         a = new Bird();
         a.speak();
         ((Bird)a).fly();
-
-
-
-
-
     }
 }

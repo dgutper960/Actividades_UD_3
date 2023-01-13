@@ -1,10 +1,6 @@
 package polimorfismo.actividades.actividad1;
 
-public class Animal implements Flyable{
-
-    @Override
-    public void fly(){
-    }
+public class Animal {
     public void speak(){
     }
 }
